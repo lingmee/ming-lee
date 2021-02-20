@@ -183,11 +183,11 @@ Teleports to POH and uses butler to make planks.
 IMPORTANT: Ensure your private chat is off.
 ```  
 
-Setup:
+Setup: [Link to Planks setup guide](https://github.com/Elli-tt/el-plugins/wiki/planks:-setup-guide)
 ```
-This plugin has a setup guide, click the following link to access it.
+This plugin has a setup guide, click the above link to access it.
 ```  
-[Link to Planks setup guide](https://github.com/Elli-tt/el-plugins/wiki/planks:-setup-guide)
+
 </details>
 
 <details>
@@ -231,11 +231,11 @@ Banks your molten glass.
 Picks up any excess glass from the ground.
 ```  
 
-Setup:
+Setup: [Link to Superglass setup guide](https://github.com/Elli-tt/el-plugins/wiki/superglassmaker:-setup-guide)
 ```
-This plugin has a setup guide, click the following link to access it.
+This plugin has a setup guide, click the above link to access it.
 ```  
-[Link to Superglass setup guide](https://github.com/Elli-tt/el-plugins/wiki/superglassmaker:-setup-guide)
+
 </details>
 
 <details>
@@ -312,9 +312,9 @@ Supports daeyalt essence.
 Supports dropping runes. (unstable)
 ```  
 
-Setup:
+Setup: [Link to ZMI setup guide](https://github.com/Elli-tt/el-plugins/wiki/ouraniaaltar:-setup-guide)
 ```
-This plugin has a setup guide, click the following link to access it.
+This plugin has a setup guide, click the above link to access it.
 ```  
-[Link to ZMI setup guide](https://github.com/Elli-tt/el-plugins/wiki/ouraniaaltar:-setup-guide)
+
 </details>
