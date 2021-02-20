@@ -3,6 +3,8 @@ Click each plugin to get a description of what they do.
 <details>
   <summary>💎Abyss</summary>
   
+***
+  
 Requirements:
 ```
 * Varying runecrafting levels
@@ -22,10 +24,15 @@ Crafts various runes through the Abyss.
 Supports staminas and eating.
 Supports Edgeville or Ferox enclave banking.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💎Herbiboar</summary>
+  
+***
   
 Requirements:
 ```
@@ -42,11 +49,16 @@ Captures herbiboar on fossil island.
 Banks at the camp to the south of the island.
 Supports dropping unwanted herbs and fossils.
 Supports leprechaun for noting.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>💎Farm Run</summary>
+  
+***
   
 Requirements:
 ```
@@ -62,4 +74,7 @@ Functionality:
 Completes a simple farm run using teleports from the standard spellbook.
 Requires a house in Hosidius for the Hosidius patch.
 ```  
+
+***
+  
 </details>
