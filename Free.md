@@ -182,6 +182,12 @@ Start on a PVP world next to the Camelot Castle bank chest.
 Teleports to POH and uses butler to make planks.
 IMPORTANT: Ensure your private chat is off.
 ```  
+
+Setup:
+```
+This plugin has a setup guide, click the following link to access it.
+```  
+[Link to Planks setup guide](https://github.com/Elli-tt/el-plugins/wiki/planks:-setup-guide)
 </details>
 
 <details>
@@ -224,6 +230,12 @@ Casts the superglass make spell.
 Banks your molten glass.
 Picks up any excess glass from the ground.
 ```  
+
+Setup:
+```
+This plugin has a setup guide, click the following link to access it.
+```  
+[Link to Superglass setup guide](https://github.com/Elli-tt/el-plugins/wiki/superglassmaker:-setup-guide)
 </details>
 
 <details>
@@ -299,4 +311,10 @@ Supports staminas and eating.
 Supports daeyalt essence.
 Supports dropping runes. (unstable)
 ```  
+
+Setup:
+```
+This plugin has a setup guide, click the following link to access it.
+```  
+[Link to ZMI setup guide](https://github.com/Elli-tt/el-plugins/wiki/ouraniaaltar:-setup-guide)
 </details>
