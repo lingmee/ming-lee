@@ -23,7 +23,7 @@ Supports staminas and food.
 Supports daeyalt essence.
 ```  
 
-Setup: [Link to ZMI setup guide](https://github.com/Elli-tt/el-plugins/wiki/ouraniaaltar:-setup-guide)
+Setup: [Link to Astrals setup guide](https://github.com/Elli-tt/el-plugins/wiki/astrals:-setup-guide)
 ```
 This plugin has a setup guide, click the above link to access it.
 ```  
@@ -49,7 +49,7 @@ Use item on item withdraws 14 of each item. Example use: Potion making.
 Use tool on item withdraws 1 tool and 27 of an item. Example use: Fletching bows.
 ```  
 
-Setup: [Link to Astrals setup guide](https://github.com/Elli-tt/el-plugins/wiki/astrals:-setup-guide)
+Setup: [Link to Bankstander setup guide](https://github.com/Elli-tt/el-plugins/wiki/bankstander:-setup-guide)
 ```
 This plugin has a setup guide, click the above link to access it.
 ```  
