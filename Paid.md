@@ -251,7 +251,7 @@ Functionality:
 ```
 Buys items from various shops.
 Either banks or opens packs when the inventory is full.
-```  
+```
 </details>
 
 <details>
