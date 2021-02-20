@@ -3,6 +3,8 @@ Click each plugin to get a description of what they do.
 <details>
   <summary>💛Astrals</summary>
   
+***
+  
 Requirements:
 ```
 * 40 Runecrafting
@@ -29,11 +31,16 @@ Setup: [Link to Astrals setup guide](https://github.com/Elli-tt/el-plugins/wiki/
 ```
 This plugin has a setup guide, click the above link to access it.
 ```  
+
+***
+  
 </details>
 
 
 <details>
   <summary>💛Bank Stander</summary>
+  
+***
   
 Requirements:
 ```
@@ -56,10 +63,14 @@ Setup: [Link to Bankstander setup guide](https://github.com/Elli-tt/el-plugins/w
 This plugin has a setup guide, click the above link to access it.
 ```  
 
+***
+  
 </details>
 
 <details>
   <summary>💛Blast Furnace</summary>
+  
+***
   
 Requirements:
 ```
@@ -75,10 +86,15 @@ Functionality:
 Uses the blast furnace to smelt gold bars.
 No other methods currently supported.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💛Bloods</summary>
+  
+***
   
 Requirements:
 ```
@@ -93,10 +109,15 @@ Functionality:
 Crafts blood or soul runes at the Arceuus essence mine.
 Uses the agility shortcut on the way back.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💛Castle Wars</summary>
+  
+***
   
 Requirements:
 ```
@@ -109,10 +130,15 @@ AFKs in Castle Wars games.
 Set which portal you would like to join and press run.
 Use this on two accounts to get guaranteed draws.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💛Cosmics</summary>
+  
+***
   
 Requirements:
 ```
@@ -129,11 +155,16 @@ Crafts cosmic runes at the cosmic altar.
 Teleports to Ardougne monastery and runs to the fairy ring.
 Takes the fairy ring to Zanaris.
 Teleports from the altar to Castle wars using rings of duelling.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>💛Enchanter</summary>
+  
+***
   
 Requirements:
 ```
@@ -147,10 +178,15 @@ Functionality:
 Enchants jewellery using the enchant spell on the standard spellbook.
 Does not currently support enchanting bolts.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💛Humidify</summary>
+  
+***
   
 Requirements:
 ```
@@ -162,10 +198,15 @@ Functionality:
 ```
 Casts humidify on various items.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💛Jewellery</summary>
+  
+***
   
 Requirements:
 ```
@@ -181,11 +222,16 @@ Crafts jewellery for you at various furnaces and banks. (by default Edgeville)
 Supports all gold and silver jewellery.
 Supports slayer rings.
 ```  
+
+***
+  
 </details>
 
 
 <details>
   <summary>💛Lavas</summary>
+  
+***
   
 Requirements:
 ```
@@ -202,11 +248,16 @@ Functionality:
 Crafts lavas at the fire altar.
 Uses humidify and NPC contact.
 Banks at Castle wars.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>💛MLM</summary>
+  
+***
   
 Requirements:
 ```
@@ -219,10 +270,15 @@ Mines, deposits and banks at MLM.
 Supports lower level, diary area and upper level.
 Does not currently support repairing wheel.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>💛Plank Make</summary>
+  
+***
   
 Requirements:
 ```
@@ -236,12 +292,17 @@ Requirements:
 Functionality:
 ```
 Casts the plank make spell for you.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>💛Shopper</summary>
-  
+ 
+***
+   
 Requirements:
 ```
 * Coins
@@ -252,10 +313,106 @@ Functionality:
 Buys items from various shops.
 Either banks or opens packs when the inventory is full.
 ```
+
+List of Supported Shops:
+<details><summary>Shopping List:</summary>
+Here is a list of all the items that can be purchased.
+     
+## Charter Ships
+    - Port Phasmatys
+    - Corsair Cove
+    - Catherby
+    - Port Khazard
+
+    Pineapples
+    Sand
+    Seaweed
+    Soda Ash
+    Slime
+
+## Falador
+    Bagged Plant 1
+
+## Blast Furnace
+    Gold Ore
+    Iron Ore
+    Silver Ore
+    Coal
+
+## Edgeville
+    Slayer Gem
+    Arrowhead Pack
+
+## Farm Shop
+    Bucket Pack
+
+## Fishing Shop
+    Feather
+    Feather Pack
+
+## Grand Tree
+    Chocolate Bar
+    Chocolate Dust
+
+## RFD Chest
+    Grapes
+    Chocolate Bar
+    Butter
+    Jug
+    Jug Packs
+
+## Baba Yaga
+    Astrals
+
+## Mage Bank
+    Nature Runes
+    Law Runes
+    Cosmic Runes
+
+## Magic Guild
+    Nature Runes
+    Law Runes
+    Death Runes
+    Blood Runes
+    Battlestaves
+
+## Crafting Store
+    Needle
+    Thread
+
+## Aubury
+    Chaos Rune
+    Death Rune
+    Body Rune
+    Fire Pack
+    Water Pack
+    Air Pack
+    Earth Pack
+    Mind Pack
+    Chaos Pack
+
+## Warrior Guild Food Shop
+    Pizza
+    Potato
+    Stew
+
+## Port Sarim Runes
+    Chaos Rune
+    Death Rune
+</details>
+
+```
+Open up the shopping list above.
+```
+
+***
+
 </details>
 
 <details>
   <summary>💛Smelter</summary>
+
+***
   
 Requirements:
 ```
@@ -267,12 +424,17 @@ Functionality:
 ```
 Smelts bars at various furnaces and banks.
 Supports ring of forging for iron.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>💛Superheater</summary>
-  
+
+***
+    
 Requirements:
 ```
 * 43 Magic
@@ -284,11 +446,16 @@ Functionality:
 ```
 Casts the superheat item spell.
 ```  
+
+***
+  
 </details>
 
 <details>
-  <summary>💛Tick Cooker</summary>
-  
+<summary>💛Tick Cooker</summary>
+
+***
+    
 Requirements:
 ```
 * 1 Cooking (Higher recommended)
@@ -298,5 +465,8 @@ Requirements:
 Functionality:
 ```
 1 tick cooks karambwans for you. Works are various locations including Rogues' Den.
-```  
+```
+
+***
+    
 </details>
