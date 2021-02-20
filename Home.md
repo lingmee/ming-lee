@@ -1,6 +1,6 @@
 # Welcome to the El-Plugins wiki!
 
-This wiki page aims to provide valuable information to **Discord Users** on using these Plugins made by El.
+This wiki page aims to provide valuable information to **users** on using these Plugins made by El.
 
 ## Quick Navigation
 
