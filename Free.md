@@ -2,7 +2,9 @@ Click each plugin to get a description of what they do.
 
 <details>
   <summary>✨Airs</summary>
-  
+ 
+***
+   
 Requirements:
 ```
 * 1 Runecrafting
@@ -15,11 +17,16 @@ Functionality:
 ```
 Crafts air runes or tiaras.
 Walks from Falador east bank to the altar and back.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>✨Barbarian</summary>
+  
+***
   
 Requirements:
 ```
@@ -35,10 +42,15 @@ Fly fishes trout and salmon at Barbarian village.
 Uses the fire to cook the fish.
 Drops the fish and repeats.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Cooker</summary>
+  
+***
   
 Requirements:
 ```
@@ -53,10 +65,15 @@ Cooks raw food at any bank and range/fire.
 Rogues' Den is supported.
 Giant Seaweed is supported.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Firemaker</summary>
+  
+***
   
 Requirements:
 ```
@@ -71,10 +88,15 @@ Creates lines of fires starting from Varrock West bank.
 Teleports you to the Varrock fountain.
 Or alternatively, walks you to Varrock fountain.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Gem Mine</summary>
+  
+***
   
 Requirements:
 ```
@@ -103,11 +125,16 @@ Functionality:
 ```
 Blows various glass items for you.
 Start near a bank booth or the Grand Exchange.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>✨Hunter</summary>
+  
+***
   
 Requirements:
 ```
@@ -123,10 +150,15 @@ Functionality:
 * (Salamanders) Catches Swamp Lizards or Red Salamanders.
 * (Falconry) Catches kebbits at the Falconry.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Karambwans</summary>
+  
+***
   
 Requirements:
 ```
@@ -144,11 +176,16 @@ Catches Karambwans off the shore of Karamja.
 Uses fairy rings to teleport to Zanaris.
 Banks Karambwans in Zanaris then travels back to Karamja.
 ```  
+
+***
+  
 </details>
 
 
 <details>
   <summary>✨Mess Hall</summary>
+  
+***
   
 Requirements:
 ```
@@ -162,10 +199,15 @@ Functionality:
 Creates dishes at the Hosidius Mess Hall.
 Hops worlds to ensure maximum points.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Planks</summary>
+  
+***
   
 Requirements:
 ```
@@ -188,10 +230,14 @@ Setup: [Link to Planks setup guide](https://github.com/Elli-tt/el-plugins/wiki/p
 This plugin has a setup guide, click the above link to access it.
 ```  
 
+***
+  
 </details>
 
 <details>
   <summary>✨Sandstone</summary>
+  
+***
   
 Requirements:
 ```
@@ -207,10 +253,15 @@ Mines sandstone in the desert quarry.
 Deposits sandstone in the grinder.
 Casts humidify when out of waterskin sips.
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Superglass</summary>
+  
+***
   
 Requirements:
 ```
@@ -236,10 +287,14 @@ Setup: [Link to Superglass setup guide](https://github.com/Elli-tt/el-plugins/wi
 This plugin has a setup guide, click the above link to access it.
 ```  
 
+***
+  
 </details>
 
 <details>
   <summary>✨Teaks</summary>
+  
+***
   
 Requirements:
 ```
@@ -255,11 +310,16 @@ Functionality:
 Cuts your teak or mahogany trees on fossil island.
 Banks or drops the logs gained.
 Picks up bird's nests.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>✨Test</summary>
+  
+***
   
 Requirements:
 ```
@@ -270,10 +330,15 @@ Functionality:
 ```
 
 ```  
+
+***
+  
 </details>
 
 <details>
   <summary>✨Tutorial</summary>
+  
+***
   
 Requirements:
 ```
@@ -285,11 +350,16 @@ Functionality:
 Completes tutorial island for you.
 Ironman modes are supported.
 Custom bank pin supported.
-```  
+``` 
+
+***
+   
 </details>
 
 <details>
   <summary>✨ZMI</summary>
+  
+***
   
 Requirements:
 ```
@@ -317,4 +387,6 @@ Setup: [Link to ZMI setup guide](https://github.com/Elli-tt/el-plugins/wiki/oura
 This plugin has a setup guide, click the above link to access it.
 ```  
 
+***
+  
 </details>
