@@ -1,3 +1,5 @@
+Click each plugin to get a description of what they do.
+
 <details>
   <summary>💛Astrals</summary>
   
