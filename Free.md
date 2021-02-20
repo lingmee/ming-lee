@@ -109,11 +109,16 @@ Functionality:
 Mines gem rocks underneath Shilo Village.
 Deposits gems in the diary bank chest.
 ```  
+
+***
+
 </details>
 
 
 <details>
   <summary>✨Glass Blower</summary>
+    
+***
   
 Requirements:
 ```
