@@ -8,4 +8,4 @@
 
 [Planks](https://github.com/Elli-tt/el-plugins/wiki/planks:-setup-guide)
 
-[Superglass: setup guide](https://github.com/Elli-tt/el-plugins/wiki/superglassmaker:-setup-guide)
+[Superglass](https://github.com/Elli-tt/el-plugins/wiki/superglassmaker:-setup-guide)
