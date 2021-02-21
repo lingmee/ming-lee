@@ -47,3 +47,10 @@ At the bottom left of the Discord client, click on the cog next to your username
 
 On `MY ACCOUNT`, click the three dots and then `Copy ID`. Your user ID will look similar to this:
 `154694161105289223`
+
+## OpenOSRS Settings
+
+![El Discord](https://cdn.discordapp.com/attachments/782635296030064660/813048690184552518/unknown.png)
+
+You now have all the information needed to start receiving messages.
+Toggle which options you would like to use and enjoy.
