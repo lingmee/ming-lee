@@ -43,6 +43,10 @@ When you are finished select 'Copy Webhook URL'. You will be given a link that l
 
 At the bottom left of the Discord client, click on the cog next to your username to go to `User Settings`.
 
+![Enabling Developer Mode](https://cdn.discordapp.com/attachments/782635296030064660/813057449074098256/unknown.png)
+
+Firstly, we need to enable 'Developer Mode'. This is found under 'Appearance', in the 'ADVANCED' section.
+
 ![Copy ID](https://cdn.discordapp.com/attachments/782635296030064660/813046919320436746/unknown.png)
 
 On `MY ACCOUNT`, click the three dots and then `Copy ID`. Your user ID will look similar to this:
