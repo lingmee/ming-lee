@@ -183,6 +183,29 @@ Does not currently support enchanting bolts.
   
 </details>
 
+
+<details>
+  <summary>💛Gem Mine</summary>
+  
+***
+  
+Requirements:
+```
+* Pickaxe equipped
+* Hard Karamja Diary
+```
+
+Functionality:
+```
+Mines gem rocks underneath Shilo Village.
+Deposits gems in the diary bank chest.
+```  
+
+***
+
+</details>
+
+
 <details>
   <summary>💛Humidify</summary>
   
@@ -296,6 +319,36 @@ Casts the plank make spell for you.
 
 ***
    
+</details>
+
+<details>
+  <summary>💛Planks</summary>
+  
+***
+  
+Requirements:
+```
+* POH with a demon butler
+* Bell-pull
+* Coins
+* Teleport runes
+* Logs
+```
+
+Functionality:
+```
+Start on a PVP world next to the Camelot Castle bank chest.
+Teleports to POH and uses butler to make planks.
+IMPORTANT: Ensure your private chat is off.
+```  
+
+Setup: [Link to Planks setup guide](https://github.com/Elli-tt/el-plugins/wiki/planks:-setup-guide)
+```
+This plugin has a setup guide, click the above link to access it.
+```  
+
+***
+  
 </details>
 
 <details>
@@ -452,6 +505,31 @@ Casts the superheat item spell.
 </details>
 
 <details>
+  <summary>💛Teaks</summary>
+  
+***
+  
+Requirements:
+```
+* Bone Voyage quest
+* 35 Farming
+* 70 Agility
+* Fully grown trees in the patches
+* Bank fully restored in the camp
+```
+
+Functionality:
+```
+Cuts your teak or mahogany trees on fossil island.
+Banks or drops the logs gained.
+Picks up bird's nests.
+``` 
+
+***
+   
+</details>
+
+<details>
 <summary>💛Tick Cooker</summary>
 
 ***
@@ -469,4 +547,39 @@ Functionality:
 
 ***
     
+</details>
+
+<details>
+  <summary>💛ZMI</summary>
+  
+***
+  
+Requirements:
+```
+* 50 Runecrafting
+* 71 Magic
+* Lunar Diplomacy quest
+* Small, medium and large essence pouches
+* Pure, rune or daeyalt essence
+* Food
+* Stamina potions (1)
+* Various rune and stave combinations
+* Rune pouch
+```
+
+Functionality:
+```
+Crafts runes at the Ourania altar.
+Supports staminas and eating.
+Supports daeyalt essence.
+Supports dropping runes. (unstable)
+```  
+
+Setup: [Link to ZMI setup guide](https://github.com/Elli-tt/el-plugins/wiki/ouraniaaltar:-setup-guide)
+```
+This plugin has a setup guide, click the above link to access it.
+```  
+
+***
+  
 </details>
