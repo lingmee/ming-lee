@@ -30,6 +30,32 @@ Supports Edgeville or Ferox enclave banking.
 </details>
 
 <details>
+  <summary>💎Blast Furnace</summary>
+  
+***
+  
+Requirements:
+```
+* Varying smithing levels (min. 60)
+* Ice gloves
+* Ore to smelt
+* Gold Gauntlets (Gold only)
+* Stamina potions (Optional)
+```
+
+Functionality:
+```
+Smelts various bars at the blast furnace.
+High xp for gold.
+High gp for other bars.
+Make sure to check your game messages when running the plugin.
+```  
+
+***
+  
+</details>
+
+<details>
   <summary>💎Herbiboar</summary>
   
 ***
@@ -56,23 +82,47 @@ Supports leprechaun for noting.
 </details>
 
 <details>
-  <summary>💎Farm Run</summary>
+  <summary>💎Mahogany Homes</summary>
   
 ***
   
 Requirements:
 ```
-* Bottomless compost bucket
-* Varying magic levels
-* Seeds
-* Rake, spade and seed dibber
-* Runes for standard spellbook spells to patches
+* Saw and a Hammer
+* Magic level for teleports
+* Runes for teleports
+* Steel bars
+* Planks (change in settings)
+* Rune pouch (optional)
+* Plank sack (optional)
 ```
 
 Functionality:
 ```
-Completes a simple farm run using teleports from the standard spellbook.
-Requires a house in Hosidius for the Hosidius patch.
+Completes the mahogany homes minigame for you.
+Make sure your house is in Hosidius.
+``` 
+
+***
+   
+</details>
+
+<details>
+  <summary>💎Tempoross</summary>
+  
+***
+  
+Requirements:
+```
+* 35 Fishing
+* Spirit anglers (optional)
+* Harpoon (optional)
+```
+
+Functionality:
+```
+Kills the Tempoross boss for you.
+Make sure to start on the dock.
 ```  
 
 ***
