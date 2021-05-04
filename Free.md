@@ -71,6 +71,27 @@ Giant Seaweed is supported.
 </details>
 
 <details>
+  <summary>✨Discord</summary>
+  
+***
+  
+Requirements:
+```
+* A Discord server
+```
+
+Functionality:
+```
+Provides in game updates from your character.
+See more info in this specific page.
+https://github.com/Elli-tt/el-plugins/wiki/El-Discord
+```  
+
+***
+  
+</details>
+
+<details>
   <summary>✨Firemaker</summary>
   
 ***
