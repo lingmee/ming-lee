@@ -49,18 +49,25 @@ Requirements:
 
 Functionality:
 ```
-Has three main modes:
+Has six main modes:
 -Use item (performs a single action on everything in the inventory)
 Use item withdraws 28 items. Example use: Herb cleaning.
 -Use item on item (combines an item in the invent with another)
 Use item on item withdraws 14 of each item. Example use: Potion making.
 -Use tool on item (uses a tool on items in the inventory)
 Use tool on item withdraws 1 tool and 27 of an item. Example use: Fletching bows.
+-Use item on object (uses an item on an object)
+Use this for any furnace, fire, range, anvil activities. Example use: Making platebodies.
+-Cast spell (casts a spell)
+Use this for enchanting bolts and humidify.
+-Cast spell on item (casts spell on an item in the inventory)
+Plank make, High Alch, Superheat, Bake Pie, Enchant Jewellery.
 ```  
 
 Setup: [Link to Bankstander setup guide](https://github.com/Elli-tt/el-plugins/wiki/bankstander:-setup-guide)
 ```
 This plugin has a setup guide, click the above link to access it.
+You can also use !bankstander for a quick guide on the discord.
 ```  
 
 ***
@@ -162,29 +169,6 @@ Teleports from the altar to Castle wars using rings of duelling.
 </details>
 
 <details>
-  <summary>💛Enchanter</summary>
-  
-***
-  
-Requirements:
-```
-* Varying magic requirements
-* Varying rune requirements
-* Good amount of jewellery
-```
-
-Functionality:
-```
-Enchants jewellery using the enchant spell on the standard spellbook.
-Does not currently support enchanting bolts.
-```  
-
-***
-  
-</details>
-
-
-<details>
   <summary>💛Gem Mine</summary>
   
 ***
@@ -204,52 +188,6 @@ Deposits gems in the diary bank chest.
 ***
 
 </details>
-
-
-<details>
-  <summary>💛Humidify</summary>
-  
-***
-  
-Requirements:
-```
-* 68 Magic
-* Dream Mentor quest
-```
-
-Functionality:
-```
-Casts humidify on various items.
-```  
-
-***
-  
-</details>
-
-<details>
-  <summary>💛Jewellery</summary>
-  
-***
-  
-Requirements:
-```
-* Varying crafting requirements
-* Bars
-* Moulds
-* (Optional) Cut gems
-```
-
-Functionality:
-```
-Crafts jewellery for you at various furnaces and banks. (by default Edgeville)
-Supports all gold and silver jewellery.
-Supports slayer rings.
-```  
-
-***
-  
-</details>
-
 
 <details>
   <summary>💛Lavas</summary>
@@ -278,6 +216,26 @@ Banks at Castle wars.
 </details>
 
 <details>
+  <summary>💛Minnows</summary>
+  
+***
+  
+Requirements:
+```
+* 82 Fishing
+* Full angler outfit
+```
+
+Functionality:
+```
+Catches minnows on the fishing platform.
+``` 
+
+***
+   
+</details>
+
+<details>
   <summary>💛MLM</summary>
   
 ***
@@ -296,29 +254,6 @@ Does not currently support repairing wheel.
 
 ***
   
-</details>
-
-<details>
-  <summary>💛Plank Make</summary>
-  
-***
-  
-Requirements:
-```
-* 86 Magic
-* Dream Mentor quest
-* Planks
-* Coins
-* Runes to cast Plank Make spell
-```
-
-Functionality:
-```
-Casts the plank make spell for you.
-``` 
-
-***
-   
 </details>
 
 <details>
@@ -463,48 +398,6 @@ Open up the shopping list above.
 </details>
 
 <details>
-  <summary>💛Smelter</summary>
-
-***
-  
-Requirements:
-```
-* Varying smithing levels
-* Varying ores
-```
-
-Functionality:
-```
-Smelts bars at various furnaces and banks.
-Supports ring of forging for iron.
-``` 
-
-***
-   
-</details>
-
-<details>
-  <summary>💛Superheater</summary>
-
-***
-    
-Requirements:
-```
-* 43 Magic
-* Runes
-* Ore
-```
-
-Functionality:
-```
-Casts the superheat item spell.
-```  
-
-***
-  
-</details>
-
-<details>
   <summary>💛Teaks</summary>
   
 ***
@@ -543,6 +436,29 @@ Requirements:
 Functionality:
 ```
 1 tick cooks karambwans for you. Works are various locations including Rogues' Den.
+```
+
+***
+    
+</details>
+
+<details>
+<summary>💛Trawler</summary>
+
+***
+    
+Requirements:
+```
+* 15 Fishing
+* Swamp paste
+* Bailing bucket (optional)
+```
+
+Functionality:
+```
+Completes the fishing trawler for you.
+Optional save paste mode for low levels.
+This will decrease fish yield but not chance at outfit piece.
 ```
 
 ***
