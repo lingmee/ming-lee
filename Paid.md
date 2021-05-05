@@ -86,6 +86,7 @@ Requirements:
 * Ice gloves
 * Coins
 * Gold ore
+* Stamina (1) (Optional)
 ```
 
 Functionality:
