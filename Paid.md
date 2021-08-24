@@ -144,6 +144,27 @@ Use this on two accounts to get guaranteed draws.
 </details>
 
 <details>
+  <summary>💛Chop Fletch</summary>
+  
+***
+  
+Requirements:
+```
+* Axe
+* Knife
+```
+
+Functionality:
+```
+Chops various trees for logs.
+Fletches those logs into items.
+``` 
+
+***
+   
+</details>
+
+<details>
   <summary>💛Cosmics</summary>
   
 ***
