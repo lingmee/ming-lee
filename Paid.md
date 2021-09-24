@@ -229,7 +229,7 @@ Requirements:
 Functionality:
 ```
 Crafts lavas at the fire altar.
-Uses humidify and NPC contact.
+Uses magic imbue and NPC contact.
 Banks at Castle wars.
 ``` 
 
